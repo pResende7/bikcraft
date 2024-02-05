@@ -52,4 +52,7 @@
   .bicicletas-listas ul {
     gap: 20px;
   }
+  .bicicletas-listas h2 {
+    margin-top: 70px;
+  }
 }
